@@ -31,7 +31,7 @@ void loop() {
       analogWrite(in1, 0);
       analogWrite(in2, a);
       analogWrite(in3, 0);
-      analogWrite(in4, RSpeed);
+      analogWrite(in4, LSpeed);
     }
     if (data == 'l') { //좌회전
       analogWrite(in1, 0);
