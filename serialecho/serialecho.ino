@@ -9,5 +9,4 @@ void loop() {
     incomingByte = Serial.read();
     Serial.print((char)incomingByte);
   }
-
 }
