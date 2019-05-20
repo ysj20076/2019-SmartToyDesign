@@ -1,4 +1,4 @@
-##1. 아두이노 통신(communication)
+## 1. 아두이노 통신(communication)
 
 ### 1. DC MOTOR
 * 모터 드라이버 사용해보기
